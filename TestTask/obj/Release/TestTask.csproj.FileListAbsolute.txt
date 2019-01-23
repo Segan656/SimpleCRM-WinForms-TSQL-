@@ -1,0 +1,12 @@
+C:\Users\Serge\source\repos\TestTask\TestTask\bin\Release\TestTask.exe.config
+C:\Users\Serge\source\repos\TestTask\TestTask\bin\Release\TestTask.exe
+C:\Users\Serge\source\repos\TestTask\TestTask\bin\Release\TestTask.pdb
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.Form2.resources
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.Properties.Resources.resources
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.csproj.GenerateResource.Cache
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.exe
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.pdb
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.csprojResolveAssemblyReference.cache
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.Form1.resources
+C:\Users\Serge\source\repos\TestTask\TestTask\obj\Release\TestTask.Form3.resources
